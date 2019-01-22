@@ -1,0 +1,23 @@
+{
+  "name": "common-request",
+  "version": "1.0.0",
+  "description": "基于 fetch 的功能更强的请求库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeezQ/common-request.git"
+  },
+  "author": "leezq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeezQ/common-request/issues"
+  },
+  "homepage": "https://github.com/LeezQ/common-request#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "qs": "^6.6.0"
+  }
+}
